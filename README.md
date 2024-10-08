@@ -1,4 +1,4 @@
-﻿# employee-management-system
+
 # Employee Management System
 
 A simple Employee Management System built with HTML, CSS, and JavaScript to add, view, edit, and manage employee details. This system allows users to input information such as name, age, designation, and salary for employees, and view a list of all employees in a table format.
